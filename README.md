@@ -1,7 +1,7 @@
 # Hi there, I'm [ZurichBlade]! 👋
 
 ## 🚀 About Me
-I'm a passionate Android developer with 2.5 years of experience creating applications that users love. I enjoy turning idea's into Apps.
+I'm a passionate Android developer with 2.5 years of experience creating applications that users love. I enjoy turning ideas into apps.
 
 ## 🔭 I’m currently working on
 Scrolling App: An automatic scrolling app that scrolls the screen without user input.
