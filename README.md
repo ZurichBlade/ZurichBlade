@@ -1,6 +1,6 @@
 # Hi there, I'm ZurichBlade 👋
 
-![Description](https://media.giphy.com/media/VzGQrj8sLH4GLcSiG1/giphy.gif)
+![Description](https://media.giphy.com/media/gVlgj80ZLp9yo/giphy.gif)
 
 <!---
 ZurichBlade/ZurichBlade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
